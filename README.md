@@ -16,6 +16,13 @@ Estimativa de Pagamentos (Regressão): Utilização de Regressão Linear para pr
 
 Privacidade e Proteção de Dados: Implementação de um método de ofuscação de dados (mascaramento) que protege as informações sensíveis dos clientes sem comprometer a acurácia dos modelos de predição.
 
+🔒 Proteção de DadosPara cumprir as diretrizes de privacidade, foi desenvolvido um algoritmo de transformação de dados baseado em álgebra linear. 
+O processo garante que:
+                           A x P = B
+
+Onde A são os dados originais, P é uma matriz invertível aleatória (chave) e B são os dados ofuscados. Isso torna os dados ilegíveis para terceiros, mantendo a relação matemática necessária para as predições.
+
+
 # Estrutura do Repositório
 Veja os dados utilizados : 
 
@@ -27,8 +34,3 @@ Veja os dados utilizados :
 PythonBibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib/SeabornConceitos: Regressão Linear, Classificação, K-Nearest Neighbors (KNN), Métricas de Erro (RMSE, $R^2$), e Ofuscação de Matrizes.
 
 
-🔒 Proteção de DadosPara cumprir as diretrizes de privacidade, foi desenvolvido um algoritmo de transformação de dados baseado em álgebra linear. 
-O processo garante que:
-                           A x P = B
-
-Onde A são os dados originais, P é uma matriz invertível aleatória (chave) e B são os dados ofuscados. Isso torna os dados ilegíveis para terceiros, mantendo a relação matemática necessária para as predições.
