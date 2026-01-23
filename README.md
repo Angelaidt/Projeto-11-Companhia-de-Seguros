@@ -16,7 +16,7 @@ Estimativa de Pagamentos (Regressão): Utilização de Regressão Linear para pr
 
 Privacidade e Proteção de Dados: Implementação de um método de ofuscação de dados (mascaramento) que protege as informações sensíveis dos clientes sem comprometer a acurácia dos modelos de predição.
 
-🔒 Proteção de DadosPara cumprir as diretrizes de privacidade, foi desenvolvido um algoritmo de transformação de dados baseado em álgebra linear. 
+🔒 Proteção de Dados: Para cumprir as diretrizes de privacidade, foi desenvolvido um algoritmo de transformação de dados baseado em álgebra linear. 
 O processo garante que:
                            A x P = B
 
@@ -29,7 +29,7 @@ Veja os dados utilizados :
 ![Dados Sprint 11 - arquivo  CSV](https://github.com/Angelaidt/Projeto-11-Companhia-de-Seguros/blob/main/insurance_us.csv)
 
 
-# 🚀 Tecnologias e FerramentasLinguagem: 
+# 🚀 Tecnologias: 
 
 PythonBibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib/SeabornConceitos: Regressão Linear, Classificação, K-Nearest Neighbors (KNN), Métricas de Erro (RMSE, $R^2$), e Ofuscação de Matrizes.
 
