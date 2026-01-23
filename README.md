@@ -1,12 +1,17 @@
 # Projeto-11-Companhia-de-Seguros
 🛡️ Machine Learning para Seguros: Proteja Seu Amanhã
+
 Este projeto desenvolve uma série de soluções baseadas em Aprendizado de Máquina para otimizar os processos da seguradora. O objetivo principal é fornecer ferramentas analíticas para marketing, predição de sinistros e garantir a segurança das informações dos clientes.
 
 📋 Objetivos do Projeto: 
 O projeto foi dividido em quatro frentes de trabalho essenciais:
+
 Segmentação de Clientes: Implementação de algoritmos para encontrar perfis semelhantes, auxiliando a equipe de marketing em campanhas direcionadas.
+
 Predição de Sinistros (Classificação): Desenvolvimento de um modelo para prever se um novo cliente receberá um pagamento de seguro, comparando o desempenho contra um modelo dummy.
+
 Estimativa de Pagamentos (Regressão): Utilização de Regressão Linear para prever a quantidade de pagamentos de seguro que um cliente pode vir a receber.
+
 Privacidade e Proteção de Dados: Implementação de um método de ofuscação de dados (mascaramento) que protege as informações sensíveis dos clientes sem comprometer a acurácia dos modelos de predição.
 
 
