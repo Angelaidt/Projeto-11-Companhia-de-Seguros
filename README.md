@@ -1,9 +1,11 @@
-# Projeto-11-Companhia-de-Seguros
+# Sprint 11 - Projeto 11/17 BootCamp TripleTen de Ciências de Dados
+
+
 🛡️ Machine Learning para Seguros: Proteja Seu Amanhã
 
 Este projeto desenvolve uma série de soluções baseadas em Aprendizado de Máquina para otimizar os processos da seguradora. O objetivo principal é fornecer ferramentas analíticas para marketing, predição de sinistros e garantir a segurança das informações dos clientes.
 
-📋 Objetivos do Projeto: 
+🎯 Objetivos do Projeto: 
 O projeto foi dividido em quatro frentes de trabalho essenciais:
 
 Segmentação de Clientes: Implementação de algoritmos para encontrar perfis semelhantes, auxiliando a equipe de marketing em campanhas direcionadas.
@@ -14,8 +16,15 @@ Estimativa de Pagamentos (Regressão): Utilização de Regressão Linear para pr
 
 Privacidade e Proteção de Dados: Implementação de um método de ofuscação de dados (mascaramento) que protege as informações sensíveis dos clientes sem comprometer a acurácia dos modelos de predição.
 
+# Estrutura do Repositório
+Veja os dados utilizados : 
 
-🛠️ Tecnologias e FerramentasLinguagem: PythonBibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib/SeabornConceitos: Regressão Linear, Classificação, K-Nearest Neighbors (KNN), Métricas de Erro (RMSE, $R^2$), e Ofuscação de Matrizes.
+![Dados Sprint 11 - arquivo  CSV](https://github.com/Angelaidt/Projeto-11-Companhia-de-Seguros/blob/main/insurance_us.csv)
+
+
+# 🚀 Tecnologias e FerramentasLinguagem: 
+
+PythonBibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib/SeabornConceitos: Regressão Linear, Classificação, K-Nearest Neighbors (KNN), Métricas de Erro (RMSE, $R^2$), e Ofuscação de Matrizes.
 
 
 🔒 Proteção de DadosPara cumprir as diretrizes de privacidade, foi desenvolvido um algoritmo de transformação de dados baseado em álgebra linear. 
