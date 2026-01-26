@@ -1,6 +1,6 @@
 # Sprint 11 - Projeto 11/17 BootCamp TripleTen de Ciências de Dados
 <p align="center">
-<img src="(https://github.com/Angelaidt/Projeto-11-Companhia-de-Seguros/blob/main/imagem%20-%20proteja%20o%20seu%20amanha.png)"
+<img src="https://github.com/Angelaidt/Projeto-11-Companhia-de-Seguros/blob/main/imagem%20-%20proteja%20o%20seu%20amanha.png"
 </p>
 
 🛡️ Machine Learning para Seguros: Proteja Seu Amanhã
