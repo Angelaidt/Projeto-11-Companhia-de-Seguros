@@ -1,5 +1,8 @@
 # Sprint 11 - Projeto 11/17 BootCamp TripleTen de Ciências de Dados
 
+<p align="center">
+<img src="\\wsl.localhost\Ubuntu\home\angelaferrari\projeto_final_sprint_11\imagem - proteja o seu amanha.png"
+</p>
 
 🛡️ Machine Learning para Seguros: Proteja Seu Amanhã
 
